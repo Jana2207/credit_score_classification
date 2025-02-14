@@ -111,14 +111,14 @@ Contributions are welcome! If you have any improvements, suggestions, or additio
 
 ## 🌱About Me
 
-I'm Akshay Shekade, a Data Scientist, passionate about data visualization, analysis, and machine learning. 
+I'm janardhan Reddy Illuru, a Data Scientist, passionate about data visualization, analysis, and machine learning. 
 
 ♻️ You can find more about me and my work through the following links:
 
-- **Linkedin**: [Linkedin](https://www.linkedin.com/in/akshay-shekade-a225a8135/?trk=opento_sprofile_topcard)
-- **Website**: [Portfolio](https://akshayshekade.github.io/)
-- **GitHub**: [Github](https://github.com/AkshayShekade)
-- **Tableau Public**: [Tableau Public](https://public.tableau.com/app/profile/akshay.shekade/vizzes)
+- **Linkedin**: [Linkedin](https://www.linkedin.com/in/jana2207 )
+- **Website**: [Portfolio](https://jana2207.github.io/)
+- **GitHub**: [Github](https://github.com/Jana2207)
+
 
 
 🌐Feel free to connect with me!
